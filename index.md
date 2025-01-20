@@ -1,5 +1,5 @@
 ---
-title: Strong Opinions About Things That Don't Matter
+Strong Opinions About Things That Don't Matter
 ---
 
 # Welcome to My Personal Space
